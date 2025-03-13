@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayanthi
+- 👋 Hi, I’m Jayanthi M
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently studying in B.E CSE
 - 💞️ I’m looking to collaborate on the projects relevant to data science
